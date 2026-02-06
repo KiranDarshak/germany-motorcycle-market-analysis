@@ -9,6 +9,9 @@ End-to-end analytics engineering project analyzing the **German motorcycle regis
 
 ![Final Dashboard](tableau/dashboard_screenshots/final_dashboard.png)
 
+📌 Key Insight: Royal Enfield recorded the highest YoY growth (+17.65%) despite holding only ~0.35% market share in Germany.
+
+
 ---
 
 ## 🎯 Business Questions Answered
